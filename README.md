@@ -1,2 +1,2 @@
 # FilmBoxd
-Website for logging you watched films
+ a Platform for logging your watched films
